@@ -1,0 +1,253 @@
+﻿Any,Tipus,Nom,Preu_Lloguer_m2
+2023,Ciutat,Barcelona,16.1
+2024,Ciutat,Barcelona,16.13
+2025,Ciutat,Barcelona,16.67
+2023,Districte,Ciutat Vella,16.66
+2024,Districte,Ciutat Vella,16.6
+2025,Districte,Ciutat Vella,18.13
+2023,Barri,el Raval,15.89
+2024,Barri,el Raval,15.94
+2025,Barri,el Raval,16.61
+2023,Barri,el Barri Gòtic,16.44
+2024,Barri,el Barri Gòtic,16.22
+2025,Barri,el Barri Gòtic,16.49
+2023,Barri,la Barceloneta,18.98
+2024,Barri,la Barceloneta,19.97
+2025,Barri,la Barceloneta,22.7
+2023,Barri,"Sant Pere, Santa Caterina i la Ribera",17.41
+2024,Barri,"Sant Pere, Santa Caterina i la Ribera",17.08
+2025,Barri,"Sant Pere, Santa Caterina i la Ribera",18.61
+2023,Districte,Eixample,16.51
+2024,Districte,Eixample,16.64
+2025,Districte,Eixample,16.84
+2023,Barri,el Fort Pienc,16.08
+2024,Barri,el Fort Pienc,15.9
+2025,Barri,el Fort Pienc,15.55
+2023,Barri,la Sagrada Família,16.7
+2024,Barri,la Sagrada Família,16.81
+2025,Barri,la Sagrada Família,16.89
+2023,Barri,la Dreta de l'Eixample,16.59
+2024,Barri,la Dreta de l'Eixample,16.76
+2025,Barri,la Dreta de l'Eixample,17.4
+2023,Barri,l'Antiga Esquerra de l'Eixample,16.75
+2024,Barri,l'Antiga Esquerra de l'Eixample,16.99
+2025,Barri,l'Antiga Esquerra de l'Eixample,16.8
+2023,Barri,la Nova Esquerra de l'Eixample,16.68
+2024,Barri,la Nova Esquerra de l'Eixample,16.73
+2025,Barri,la Nova Esquerra de l'Eixample,17.31
+2023,Barri,Sant Antoni,15.87
+2024,Barri,Sant Antoni,16.14
+2025,Barri,Sant Antoni,16.26
+2023,Districte,Sants-Montjuïc,16.33
+2024,Districte,Sants-Montjuïc,15.65
+2025,Districte,Sants-Montjuïc,16.41
+2023,Barri,el Poble Sec - Parc Montjuïc,16.0
+2024,Barri,el Poble Sec - Parc Montjuïc,16.41
+2025,Barri,el Poble Sec - Parc Montjuïc,16.73
+2023,Barri,la Marina del Prat Vermell - Zona Franca,13.39
+2024,Barri,la Marina del Prat Vermell - Zona Franca,8.68
+2025,Barri,la Marina del Prat Vermell - Zona Franca,17.36
+2023,Barri,la Marina de Port,12.58
+2024,Barri,la Marina de Port,12.02
+2025,Barri,la Marina de Port,13.13
+2023,Barri,la Font de la Guatlla,15.82
+2024,Barri,la Font de la Guatlla,15.64
+2025,Barri,la Font de la Guatlla,15.94
+2023,Barri,Hostafrancs,15.81
+2024,Barri,Hostafrancs,15.64
+2025,Barri,Hostafrancs,16.46
+2023,Barri,la Bordeta,21.06
+2024,Barri,la Bordeta,18.72
+2025,Barri,la Bordeta,18.23
+2023,Barri,Sants - Badal,15.68
+2024,Barri,Sants - Badal,16.05
+2025,Barri,Sants - Badal,15.93
+2023,Barri,Sants,15.76
+2024,Barri,Sants,15.96
+2025,Barri,Sants,16.43
+2023,Districte,Les Corts,16.77
+2024,Districte,Les Corts,17.39
+2025,Districte,Les Corts,17.66
+2023,Barri,les Corts,17.08
+2024,Barri,les Corts,17.43
+2025,Barri,les Corts,17.97
+2023,Barri,la Maternitat i Sant Ramon,15.76
+2024,Barri,la Maternitat i Sant Ramon,16.43
+2025,Barri,la Maternitat i Sant Ramon,16.51
+2023,Barri,Pedralbes,17.48
+2024,Barri,Pedralbes,19.29
+2025,Barri,Pedralbes,18.67
+2023,Districte,Sarrià-Sant Gervasi,18.24
+2024,Districte,Sarrià-Sant Gervasi,18.36
+2025,Districte,Sarrià-Sant Gervasi,19.06
+2023,Barri,"Vallvidrera, el Tibidabo i les Planes",14.12
+2024,Barri,"Vallvidrera, el Tibidabo i les Planes",16.28
+2025,Barri,"Vallvidrera, el Tibidabo i les Planes",14.53
+2023,Barri,Sarrià,19.52
+2024,Barri,Sarrià,19.26
+2025,Barri,Sarrià,20.49
+2023,Barri,les Tres Torres,19.42
+2024,Barri,les Tres Torres,19.74
+2025,Barri,les Tres Torres,19.74
+2023,Barri,Sant Gervasi - la Bonanova,17.82
+2024,Barri,Sant Gervasi - la Bonanova,18.08
+2025,Barri,Sant Gervasi - la Bonanova,19.24
+2023,Barri,Sant Gervasi - Galvany,18.42
+2024,Barri,Sant Gervasi - Galvany,18.75
+2025,Barri,Sant Gervasi - Galvany,18.84
+2023,Barri,el Putxet i el Farró,17.29
+2024,Barri,el Putxet i el Farró,17.05
+2025,Barri,el Putxet i el Farró,18.34
+2023,Districte,Gràcia,16.88
+2024,Districte,Gràcia,17.5
+2025,Districte,Gràcia,17.73
+2023,Barri,Vallcarca i els Penitents,16.78
+2024,Barri,Vallcarca i els Penitents,17.76
+2025,Barri,Vallcarca i els Penitents,17.39
+2023,Barri,el Coll,14.42
+2024,Barri,el Coll,14.66
+2025,Barri,el Coll,15.24
+2023,Barri,la Salut,15.34
+2024,Barri,la Salut,16.42
+2025,Barri,la Salut,16.48
+2023,Barri,la Vila de Gràcia,17.48
+2024,Barri,la Vila de Gràcia,17.89
+2025,Barri,la Vila de Gràcia,18.5
+2023,Barri,el Camp d'en Grassot i Gràcia Nova,16.69
+2024,Barri,el Camp d'en Grassot i Gràcia Nova,17.48
+2025,Barri,el Camp d'en Grassot i Gràcia Nova,17.13
+2023,Districte,Horta-Guinardó,14.48
+2024,Districte,Horta-Guinardó,14.5
+2025,Districte,Horta-Guinardó,14.95
+2023,Barri,el Baix Guinardó,15.48
+2024,Barri,el Baix Guinardó,15.72
+2025,Barri,el Baix Guinardó,15.93
+2023,Barri,Can Baró,14.97
+2024,Barri,Can Baró,15.72
+2025,Barri,Can Baró,16.03
+2023,Barri,el Guinardó,14.95
+2024,Barri,el Guinardó,14.99
+2025,Barri,el Guinardó,15.44
+2023,Barri,la Font d'en Fargues,15.5
+2024,Barri,la Font d'en Fargues,15.6
+2025,Barri,la Font d'en Fargues,14.6
+2023,Barri,el Carmel,13.5
+2024,Barri,el Carmel,13.56
+2025,Barri,el Carmel,13.97
+2023,Barri,la Teixonera,14.62
+2024,Barri,la Teixonera,14.57
+2025,Barri,la Teixonera,14.96
+2023,Barri,Sant Genís dels Agudells,12.02
+2024,Barri,Sant Genís dels Agudells,11.09
+2025,Barri,Sant Genís dels Agudells,12.25
+2023,Barri,Montbau,13.77
+2024,Barri,Montbau,13.64
+2025,Barri,Montbau,15.47
+2023,Barri,la Vall d'Hebron,14.95
+2024,Barri,la Vall d'Hebron,15.04
+2025,Barri,la Vall d'Hebron,15.34
+2023,Barri,la Clota,15.46
+2024,Barri,la Clota,11.51
+2025,Barri,la Clota,20.15
+2023,Barri,Horta,13.92
+2024,Barri,Horta,14.23
+2025,Barri,Horta,14.31
+2023,Districte,Nou Barris,13.26
+2024,Districte,Nou Barris,13.06
+2025,Districte,Nou Barris,13.44
+2023,Barri,Vilapicina i la Torre Llobeta,13.69
+2024,Barri,Vilapicina i la Torre Llobeta,13.88
+2025,Barri,Vilapicina i la Torre Llobeta,14.59
+2023,Barri,Porta,13.51
+2024,Barri,Porta,13.44
+2025,Barri,Porta,13.32
+2023,Barri,el Turó de la Peira,12.56
+2024,Barri,el Turó de la Peira,13.11
+2025,Barri,el Turó de la Peira,13.03
+2023,Barri,Can Peguera,
+2024,Barri,Can Peguera,12.45
+2025,Barri,Can Peguera,8.44
+2023,Barri,la Guineueta,12.19
+2024,Barri,la Guineueta,11.94
+2025,Barri,la Guineueta,12.47
+2023,Barri,Canyelles,10.76
+2024,Barri,Canyelles,10.32
+2025,Barri,Canyelles,9.98
+2023,Barri,les Roquetes,13.61
+2024,Barri,les Roquetes,13.5
+2025,Barri,les Roquetes,13.62
+2023,Barri,Verdun,14.53
+2024,Barri,Verdun,13.09
+2025,Barri,Verdun,14.21
+2023,Barri,la Prosperitat,13.95
+2024,Barri,la Prosperitat,13.93
+2025,Barri,la Prosperitat,14.42
+2023,Barri,la Trinitat Nova,13.52
+2024,Barri,la Trinitat Nova,14.23
+2025,Barri,la Trinitat Nova,12.45
+2023,Barri,Torre Baró,7.71
+2024,Barri,Torre Baró,5.72
+2025,Barri,Torre Baró,10.35
+2023,Barri,Ciutat Meridiana,10.39
+2024,Barri,Ciutat Meridiana,10.73
+2025,Barri,Ciutat Meridiana,10.2
+2023,Barri,Vallbona,
+2024,Barri,Vallbona,
+2025,Barri,Vallbona,10.4
+2023,Districte,Sant Andreu,13.83
+2024,Districte,Sant Andreu,13.66
+2025,Districte,Sant Andreu,14.11
+2023,Barri,la Trinitat Vella,12.53
+2024,Barri,la Trinitat Vella,11.12
+2025,Barri,la Trinitat Vella,12.91
+2023,Barri,Baró de Viver,9.23
+2024,Barri,Baró de Viver,7.76
+2025,Barri,Baró de Viver,8.45
+2023,Barri,el Bon Pastor,10.9
+2024,Barri,el Bon Pastor,10.49
+2025,Barri,el Bon Pastor,11.36
+2023,Barri,Sant Andreu,13.96
+2024,Barri,Sant Andreu,13.92
+2025,Barri,Sant Andreu,14.62
+2023,Barri,la Sagrera,14.54
+2024,Barri,la Sagrera,14.43
+2025,Barri,la Sagrera,14.08
+2023,Barri,el Congrés i els Indians,14.02
+2024,Barri,el Congrés i els Indians,14.61
+2025,Barri,el Congrés i els Indians,14.2
+2023,Barri,Navas,14.45
+2024,Barri,Navas,14.34
+2025,Barri,Navas,14.69
+2023,Districte,Sant Martí,16.18
+2024,Districte,Sant Martí,16.24
+2025,Districte,Sant Martí,16.53
+2023,Barri,el Camp de l'Arpa del Clot,15.76
+2024,Barri,el Camp de l'Arpa del Clot,15.65
+2025,Barri,el Camp de l'Arpa del Clot,15.99
+2023,Barri,el Clot,15.4
+2024,Barri,el Clot,15.57
+2025,Barri,el Clot,15.65
+2023,Barri,el Parc i la Llacuna del Poblenou,17.25
+2024,Barri,el Parc i la Llacuna del Poblenou,16.86
+2025,Barri,el Parc i la Llacuna del Poblenou,18.21
+2023,Barri,la Vila Olímpica del Poblenou,20.38
+2024,Barri,la Vila Olímpica del Poblenou,21.87
+2025,Barri,la Vila Olímpica del Poblenou,20.82
+2023,Barri,el Poblenou,17.78
+2024,Barri,el Poblenou,18.11
+2025,Barri,el Poblenou,18.29
+2023,Barri,Diagonal Mar i el Front Marítim del Poblenou,18.81
+2024,Barri,Diagonal Mar i el Front Marítim del Poblenou,19.63
+2025,Barri,Diagonal Mar i el Front Marítim del Poblenou,22.39
+2023,Barri,el Besòs i el Maresme,12.49
+2024,Barri,el Besòs i el Maresme,13.44
+2025,Barri,el Besòs i el Maresme,13.16
+2023,Barri,Provençals del Poblenou,16.35
+2024,Barri,Provençals del Poblenou,16.12
+2025,Barri,Provençals del Poblenou,16.85
+2023,Barri,Sant Martí de Provençals,13.54
+2024,Barri,Sant Martí de Provençals,14.1
+2025,Barri,Sant Martí de Provençals,13.57
+2023,Barri,la Verneda i la Pau,16.3
+2024,Barri,la Verneda i la Pau,14.52
+2025,Barri,la Verneda i la Pau,14.17

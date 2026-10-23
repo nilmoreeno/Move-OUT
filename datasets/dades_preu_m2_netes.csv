@@ -1,0 +1,253 @@
+﻿Any,Tipus,Codi,Nom,Preu_m2_Total
+2023,Ciutat,0,Barcelona,4370.96
+2023,Districte,1,Ciutat Vella,4170.41
+2023,Districte,2,Eixample,5108.05
+2023,Districte,3,Sants-Montjuïc,3737.77
+2023,Districte,4,Les Corts,5045.51
+2023,Districte,5,Sarrià-Sant Gervasi,5975.31
+2023,Districte,6,Gràcia,4656.44
+2023,Districte,7,Horta-Guinardó,3324.59
+2023,Districte,8,Nou Barris,2658.17
+2023,Districte,9,Sant Andreu,3382.89
+2023,Districte,10,Sant Martí,4212.99
+2023,Barri,1,el Raval,3338.87
+2023,Barri,2,el Barri Gòtic,4498.41
+2023,Barri,3,la Barceloneta,5020.39
+2023,Barri,4,"Sant Pere, Santa Caterina i la Ribera",4526.58
+2023,Barri,5,el Fort Pienc,4526.42
+2023,Barri,6,la Sagrada Família,4553.52
+2023,Barri,7,la Dreta de l'Eixample,6232.1
+2023,Barri,8,l'Antiga Esquerra de l'Eixample,5562.87
+2023,Barri,9,la Nova Esquerra de l'Eixample,4536.39
+2023,Barri,10,Sant Antoni,4352.4
+2023,Barri,11,el Poble Sec - Parc Montjuïc,3847.61
+2023,Barri,12,la Marina del Prat Vermell - Zona Franca,1619.39
+2023,Barri,13,la Marina de Port,3386.08
+2023,Barri,14,la Font de la Guatlla,3494.34
+2023,Barri,15,Hostafrancs,3347.01
+2023,Barri,16,la Bordeta,4008.18
+2023,Barri,17,Sants - Badal,3462.86
+2023,Barri,18,Sants,4184.63
+2023,Barri,19,les Corts,4890.44
+2023,Barri,20,la Maternitat i Sant Ramon,4798.39
+2023,Barri,21,Pedralbes,5650.24
+2023,Barri,22,"Vallvidrera, el Tibidabo i les Planes",4250.91
+2023,Barri,23,Sarrià,7060.15
+2023,Barri,24,les Tres Torres,6564.28
+2023,Barri,25,Sant Gervasi - la Bonanova,6422.16
+2023,Barri,26,Sant Gervasi - Galvany,5834.78
+2023,Barri,27,el Putxet i el Farró,4659.94
+2023,Barri,28,Vallcarca i els Penitents,4324.24
+2023,Barri,29,el Coll,3191.23
+2023,Barri,30,la Salut,4485.7
+2023,Barri,31,la Vila de Gràcia,5065.14
+2023,Barri,32,el Camp d'en Grassot i Gràcia Nova,4596.35
+2023,Barri,33,el Baix Guinardó,3866.09
+2023,Barri,34,Can Baró,2949.63
+2023,Barri,35,el Guinardó,3752.28
+2023,Barri,36,la Font d'en Fargues,4082.43
+2023,Barri,37,el Carmel,2605.29
+2023,Barri,38,la Teixonera,2739.33
+2023,Barri,39,Sant Genís dels Agudells,2852.18
+2023,Barri,40,Montbau,3176.49
+2023,Barri,41,la Vall d'Hebron,4497.12
+2023,Barri,42,la Clota,3153.85
+2023,Barri,43,Horta,3271.76
+2023,Barri,44,Vilapicina i la Torre Llobeta,3298.26
+2023,Barri,45,Porta,2724.01
+2023,Barri,46,el Turó de la Peira,2651.23
+2023,Barri,47,Can Peguera,5136.91
+2023,Barri,48,la Guineueta,2617.51
+2023,Barri,49,Canyelles,2753.16
+2023,Barri,50,les Roquetes,2260.44
+2023,Barri,51,Verdun,2392.83
+2023,Barri,52,la Prosperitat,2639.9
+2023,Barri,53,la Trinitat Nova,1975.32
+2023,Barri,54,Torre Baró,1643.91
+2023,Barri,55,Ciutat Meridiana,1732.16
+2023,Barri,56,Vallbona,1464.93
+2023,Barri,57,la Trinitat Vella,2920.42
+2023,Barri,58,Baró de Viver,
+2023,Barri,59,el Bon Pastor,2297.1
+2023,Barri,60,Sant Andreu,3817.94
+2023,Barri,61,la Sagrera,3759.87
+2023,Barri,62,el Congrés i els Indians,3535.32
+2023,Barri,63,Navas,3428.63
+2023,Barri,64,el Camp de l'Arpa del Clot,4046.85
+2023,Barri,65,el Clot,3705.34
+2023,Barri,66,el Parc i la Llacuna del Poblenou,5206.0
+2023,Barri,67,la Vila Olímpica del Poblenou,5718.4
+2023,Barri,68,el Poblenou,5256.04
+2023,Barri,69,Diagonal Mar i el Front Marítim del Poblenou,5729.14
+2023,Barri,70,el Besòs i el Maresme,2704.74
+2023,Barri,71,Provençals del Poblenou,4329.78
+2023,Barri,72,Sant Martí de Provençals,3050.69
+2023,Barri,73,la Verneda i la Pau,2283.64
+2024,Ciutat,0,Barcelona,4481.77
+2024,Districte,1,Ciutat Vella,4226.67
+2024,Districte,2,Eixample,5410.44
+2024,Districte,3,Sants-Montjuïc,4175.3
+2024,Districte,4,Les Corts,5405.28
+2024,Districte,5,Sarrià-Sant Gervasi,6099.02
+2024,Districte,6,Gràcia,4820.04
+2024,Districte,7,Horta-Guinardó,3634.35
+2024,Districte,8,Nou Barris,2815.8
+2024,Districte,9,Sant Andreu,3441.14
+2024,Districte,10,Sant Martí,4360.28
+2024,Barri,1,el Raval,3250.15
+2024,Barri,2,el Barri Gòtic,4738.14
+2024,Barri,3,la Barceloneta,5504.08
+2024,Barri,4,"Sant Pere, Santa Caterina i la Ribera",4566.61
+2024,Barri,5,el Fort Pienc,4688.23
+2024,Barri,6,la Sagrada Família,4871.78
+2024,Barri,7,la Dreta de l'Eixample,6575.83
+2024,Barri,8,l'Antiga Esquerra de l'Eixample,5778.51
+2024,Barri,9,la Nova Esquerra de l'Eixample,4944.47
+2024,Barri,10,Sant Antoni,4782.21
+2024,Barri,11,el Poble Sec - Parc Montjuïc,4143.96
+2024,Barri,12,la Marina del Prat Vermell - Zona Franca,5307.85
+2024,Barri,13,la Marina de Port,3812.22
+2024,Barri,14,la Font de la Guatlla,3841.2
+2024,Barri,15,Hostafrancs,4089.35
+2024,Barri,16,la Bordeta,3551.3
+2024,Barri,17,Sants - Badal,4010.07
+2024,Barri,18,Sants,3900.86
+2024,Barri,19,les Corts,5344.73
+2024,Barri,20,la Maternitat i Sant Ramon,4574.96
+2024,Barri,21,Pedralbes,6772.69
+2024,Barri,22,"Vallvidrera, el Tibidabo i les Planes",3795.83
+2024,Barri,23,Sarrià,7069.62
+2024,Barri,24,les Tres Torres,6481.82
+2024,Barri,25,Sant Gervasi - la Bonanova,6495.23
+2024,Barri,26,Sant Gervasi - Galvany,6060.55
+2024,Barri,27,el Putxet i el Farró,5229.43
+2024,Barri,28,Vallcarca i els Penitents,4474.07
+2024,Barri,29,el Coll,3547.28
+2024,Barri,30,la Salut,4693.23
+2024,Barri,31,la Vila de Gràcia,5094.32
+2024,Barri,32,el Camp d'en Grassot i Gràcia Nova,4893.68
+2024,Barri,33,el Baix Guinardó,4238.39
+2024,Barri,34,Can Baró,3203.62
+2024,Barri,35,el Guinardó,4132.55
+2024,Barri,36,la Font d'en Fargues,4534.88
+2024,Barri,37,el Carmel,2768.4
+2024,Barri,38,la Teixonera,2854.9
+2024,Barri,39,Sant Genís dels Agudells,3377.72
+2024,Barri,40,Montbau,3004.56
+2024,Barri,41,la Vall d'Hebron,4050.86
+2024,Barri,42,la Clota,4057.79
+2024,Barri,43,Horta,3974.09
+2024,Barri,44,Vilapicina i la Torre Llobeta,3484.87
+2024,Barri,45,Porta,3101.7
+2024,Barri,46,el Turó de la Peira,2587.29
+2024,Barri,47,Can Peguera,2080.42
+2024,Barri,48,la Guineueta,2918.31
+2024,Barri,49,Canyelles,2856.95
+2024,Barri,50,les Roquetes,2302.46
+2024,Barri,51,Verdun,2789.79
+2024,Barri,52,la Prosperitat,2835.47
+2024,Barri,53,la Trinitat Nova,2219.06
+2024,Barri,54,Torre Baró,1582.42
+2024,Barri,55,Ciutat Meridiana,1906.73
+2024,Barri,56,Vallbona,
+2024,Barri,57,la Trinitat Vella,2267.81
+2024,Barri,58,Baró de Viver,
+2024,Barri,59,el Bon Pastor,2369.93
+2024,Barri,60,Sant Andreu,3771.75
+2024,Barri,61,la Sagrera,3682.89
+2024,Barri,62,el Congrés i els Indians,3610.08
+2024,Barri,63,Navas,4034.36
+2024,Barri,64,el Camp de l'Arpa del Clot,4136.29
+2024,Barri,65,el Clot,4182.18
+2024,Barri,66,el Parc i la Llacuna del Poblenou,4981.58
+2024,Barri,67,la Vila Olímpica del Poblenou,5581.15
+2024,Barri,68,el Poblenou,5365.92
+2024,Barri,69,Diagonal Mar i el Front Marítim del Poblenou,6372.63
+2024,Barri,70,el Besòs i el Maresme,2490.22
+2024,Barri,71,Provençals del Poblenou,4168.57
+2024,Barri,72,Sant Martí de Provençals,3228.49
+2024,Barri,73,la Verneda i la Pau,3020.39
+2025,Ciutat,0,Barcelona,4797.02
+2025,Districte,1,Ciutat Vella,4444.77
+2025,Districte,2,Eixample,5861.97
+2025,Districte,3,Sants-Montjuïc,4593.1
+2025,Districte,4,Les Corts,5879.66
+2025,Districte,5,Sarrià-Sant Gervasi,6427.38
+2025,Districte,6,Gràcia,5262.53
+2025,Districte,7,Horta-Guinardó,3829.22
+2025,Districte,8,Nou Barris,3095.41
+2025,Districte,9,Sant Andreu,3807.21
+2025,Districte,10,Sant Martí,4730.75
+2025,Barri,1,el Raval,3693.15
+2025,Barri,2,el Barri Gòtic,4650.74
+2025,Barri,3,la Barceloneta,5754.41
+2025,Barri,4,"Sant Pere, Santa Caterina i la Ribera",4875.96
+2025,Barri,5,el Fort Pienc,5158.01
+2025,Barri,6,la Sagrada Família,5246.05
+2025,Barri,7,la Dreta de l'Eixample,6946.02
+2025,Barri,8,l'Antiga Esquerra de l'Eixample,6212.78
+2025,Barri,9,la Nova Esquerra de l'Eixample,5464.98
+2025,Barri,10,Sant Antoni,5278.08
+2025,Barri,11,el Poble Sec,4895.82
+2025,Barri,12,la Marina del Prat Vermell,6453.61
+2025,Barri,13,la Marina de Port,4335.33
+2025,Barri,14,la Font de la Guatlla,4157.92
+2025,Barri,15,Hostafrancs,4319.85
+2025,Barri,16,la Bordeta,4464.96
+2025,Barri,17,Sants - Badal,4367.3
+2025,Barri,18,Sants,4580.46
+2025,Barri,19,les Corts,5816.33
+2025,Barri,20,la Maternitat i Sant Ramon,5004.21
+2025,Barri,21,Pedralbes,7486.15
+2025,Barri,22,"Vallvidrera, el Tibidabo i les Planes",4449.58
+2025,Barri,23,Sarrià,7022.76
+2025,Barri,24,les Tres Torres,7075.81
+2025,Barri,25,Sant Gervasi - la Bonanova,6226.59
+2025,Barri,26,Sant Gervasi - Galvany,6718.33
+2025,Barri,27,el Putxet i el Farró,5685.09
+2025,Barri,28,Vallcarca i els Penitents,4737.89
+2025,Barri,29,el Coll,3696.03
+2025,Barri,30,la Salut,4636.81
+2025,Barri,31,la Vila de Gràcia,5594.15
+2025,Barri,32,el Camp d'en Grassot i Gràcia Nova,5416.11
+2025,Barri,33,el Baix Guinardó,4496.81
+2025,Barri,34,Can Baró,3656.8
+2025,Barri,35,el Guinardó,4305.07
+2025,Barri,36,la Font d'en Fargues,4807.77
+2025,Barri,37,el Carmel,3103.67
+2025,Barri,38,la Teixonera,3392.75
+2025,Barri,39,Sant Genís dels Agudells,2636.89
+2025,Barri,40,Montbau,3455.89
+2025,Barri,41,la Vall d'Hebron,5193.88
+2025,Barri,42,la Clota,4700.41
+2025,Barri,43,Horta,3751.53
+2025,Barri,44,Vilapicina i la Torre Llobeta,3907.96
+2025,Barri,45,Porta,3585.38
+2025,Barri,46,el Turó de la Peira,2935.69
+2025,Barri,47,Can Peguera,
+2025,Barri,48,la Guineueta,3258.69
+2025,Barri,49,Canyelles,3035.41
+2025,Barri,50,les Roquetes,2556.3
+2025,Barri,51,Verdun,3031.19
+2025,Barri,52,la Prosperitat,3196.76
+2025,Barri,53,la Trinitat Nova,2476.07
+2025,Barri,54,Torre Baró,1920.16
+2025,Barri,55,Ciutat Meridiana,1893.84
+2025,Barri,56,Vallbona,2631.03
+2025,Barri,57,la Trinitat Vella,2282.99
+2025,Barri,58,Baró de Viver,
+2025,Barri,59,el Bon Pastor,2691.88
+2025,Barri,60,Sant Andreu,4228.48
+2025,Barri,61,la Sagrera,4552.12
+2025,Barri,62,el Congrés i els Indians,3903.48
+2025,Barri,63,Navas,4353.19
+2025,Barri,64,el Camp de l'Arpa del Clot,4644.61
+2025,Barri,65,el Clot,4639.25
+2025,Barri,66,el Parc i la Llacuna del Poblenou,5284.46
+2025,Barri,67,la Vila Olímpica del Poblenou,6035.0
+2025,Barri,68,el Poblenou,6003.04
+2025,Barri,69,Diagonal Mar i el Front Marítim del Poblenou,6224.34
+2025,Barri,70,el Besòs i el Maresme,2786.45
+2025,Barri,71,Provençals del Poblenou,5050.58
+2025,Barri,72,Sant Martí de Provençals,3541.78
+2025,Barri,73,la Verneda i la Pau,3981.23
