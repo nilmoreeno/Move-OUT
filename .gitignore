@@ -1,0 +1,11 @@
+# Excluir carpetas pesadas indicadas por Nil
+datasets/output_limite_legal/
+datasets/output_limite_legal_turismo_v2/
+datasets/output_limite_legal_Movilidad/
+data/raw/
+*.zip
+
+# Recomendado: Excluir todos los archivos CSV/Parquet pesados del proyecto
+*.csv
+*.parquet
+datasets/
