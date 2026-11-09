@@ -71,7 +71,24 @@ pip install -r requirements.txt
 
 ---
 
-### 5. Abrir y ejecutar `move-out.ipynb`
+### 5. Añadir los datasets (`.gitignore`)
+
+Descarga y descomprime los datasets proporcionados. Coloca los archivos CSV directamente en la carpeta `datasets/`, sin cambiar sus nombres ni crear subcarpetas. Estos archivos no se suben a GitHub debido al `.gitignore`.
+
+```bash
+Move-OUT/
+├── move-out.ipynb
+├── requirements.txt
+└── datasets/
+    ├── BCN_acumulat_2023.csv
+    ├── BCN_acumulat_2024.csv
+    ├── BCN_acumulat_2025.csv
+    └── datos_alquiler.csv
+```
+
+---
+
+### 6. Abrir y ejecutar `move-out.ipynb`
 
 Para procesar los datos y visualizar los resultados:
 
